@@ -26,9 +26,10 @@ NLP_task/
 |-- main.py
 |-- README.md
 |-- data/
-|   |-- test.tev.zip
-|   |-- train.tsv.zip
 |   |-- glove.6B.zip
+|   |-- sentiment-analysis-on-movie-reviews/
+|   |   |-- test.tev.zip
+|   |   |-- train.tsv.zip
 ```
 
 - `NetTrainer.py`: 主要的源代码文件。
